@@ -40,7 +40,7 @@
             // 
             // btnSalvar
             // 
-            this.btnSalvar.BackColor = System.Drawing.Color.CadetBlue;
+            this.btnSalvar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btnSalvar.Location = new System.Drawing.Point(239, 229);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(75, 23);
@@ -92,7 +92,7 @@
             // 
             // Listar
             // 
-            this.Listar.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.Listar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.Listar.Location = new System.Drawing.Point(127, 229);
             this.Listar.Name = "Listar";
             this.Listar.Size = new System.Drawing.Size(75, 23);
