@@ -18,7 +18,7 @@
 
 - Altere as Strings de conexão de acordo com sua cadeia
 
-- EX: string connectionString = "Data Source=DESKTOP-2EM4T0F\\SQLEXPRESS;Initial Catalog=locadora;Integrated Security=True";
+- EX: string connectionString = "Data Source=DESKTOP\SQLEXPRESS;Initial Catalog=locadora;Integrated Security=True";
 
 # Console do Gerenciador de pacotes
 
